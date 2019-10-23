@@ -1,3 +1,5 @@
+## This is a fork of [Luxas' Kubeadm Workshop](https://github.com/luxas/kubeadm-workshop)
+
 ### Workshop:
 
 ## Building a multi-platform Kubernetes cluster on bare metal with `kubeadm`
